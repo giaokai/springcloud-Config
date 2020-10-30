@@ -6,8 +6,7 @@ spring:
 spring:
   profiles: dev  #开发环境
   application:
-    name: springcloud-config-dev
-  vsesion=1
+    name: springcloud-config-devs
 ---
 spring:
   profiles: test #测试环境
